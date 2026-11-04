@@ -1,0 +1,2 @@
+SHAP Expected Value,SHAP Reconstruction MAE,SHAP Top Feature (full test),SHAP Top Feature Importance (full test),SHAP Top Lag,LIME Top Feature,LIME Top Feature Importance,Mean LIME Fidelity R2,Mean LIME Prediction Error,SHAP-LIME Spearman Correlation,SHAP-LIME Spearman p-value,SHAP Full-Test Samples,SHAP Comparison Samples,LIME Explained Samples
+3.3857537134696316,2.109770247769974e-07,Upper_BB,0.24105703249020707,t-3,Upper_BB,0.09681343297774003,0.7867710315686531,0.003835145606776491,1.0,0.0,484,20,20
